@@ -3,3 +3,4 @@ Welcome to Git
 <message>Hello from master branch</message>
 <message>Hello from Gitwork</message>
 <message>Updated from master branch</message>
+<message>Final combined content</message>
