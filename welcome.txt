@@ -2,3 +2,4 @@ Welcome to Git
 # Update Week-8/hello.xml with this content
 <message>Hello from master branch</message>
 <message>Hello from Gitwork</message>
+<message>Updated from master branch</message>
